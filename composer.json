@@ -1,6 +1,6 @@
 {
-	"name": "exodusanto/administrator",
-	"description": "A database interface package for Laravel (Legacy of Frozennode Laravel-Administrator)",
+	"name": "boldcompass/administrator",
+	"description": "A database interface package for Laravel (Legacy of Frozennode Laravel-Administrator) and (exodusanto Laravel-Admin)",
 	"homepage": "http://administrator.frozennode.com",
 	"keywords": ["administrator", "admin", "database", "laravel-administrator", "laravel", "cms"],
 	"license": "MIT",
