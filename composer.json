@@ -12,14 +12,15 @@
 		{
 			"name": "Antonio Dal Sie",
 			"email": "info@antoniodalsie.com"
+		},
+		{
+			"name": "Rheman Tidalgo of BoldCompass",
+			"email": "tidalgo.rheman@gmail.com"
 		}
 	],
-	"support": {
-		"issues": "https://github.com/exodusanto/Laravel-Admin/issues"
-	},
 	"require": {
 		"php": ">=7.1.3",
-		"laravel/framework": "5.7.*",
+		"laravel/framework": "5.8.*",
 		"ckeditor/ckeditor": "4.*"
 	},
 	"require-dev": {

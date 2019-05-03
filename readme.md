@@ -6,11 +6,15 @@ Administrator is an administrative interface builder for [Laravel](http://larave
 - **Website:** [http://frozennode.com](http://administrator.frozennode.com/)
 - **Version:** 5.0.11
 
-New Version
-
 - **Author:** Antonio Dal Sie
 - **Website:** [http://antoniodalsie.com](http://antoniodalsie.com/)
 - **Version:** 5.4
+
+New Version
+
+- **Author:** Rheman Tidalgo of BoldCompass
+- **Website:** https://boldcompass.com/
+- **Version:** 5.8
 
 [![Build Status](https://travis-ci.org/exodusanto/Laravel-Admin.svg?branch=master)](https://travis-ci.org/exodusanto/Laravel-Admin)
 
@@ -18,16 +22,10 @@ New Version
 
 ## Composer
 
-To install Administrator as a Composer package to be used with Laravel 5.7, simply run:
+To install Administrator as a Composer package to be used with Laravel 5.8, simply run:
 
 ```sh
-composer require "exodusanto/administrator: 5.7.*"
-```
-
-To install Administrator as a Composer package to be used with Laravel 5.6, simply run:
-
-```sh
-composer require "exodusanto/administrator: 5.6.*"
+composer require "exodusanto/administrator: 5.8.*"
 ```
 
 Once it's installed, you can register the service provider in `config/app.php` in the `providers` array:
